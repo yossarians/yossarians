@@ -4,6 +4,6 @@
 
 Nine Minutes Later:
 
-<img align="center" width="850" height="490" src="https://github.com/yossarians/yossarians/blob/main/think.jpg" alt=""> 
+<img align="center" width="705" height="360" src="https://github.com/yossarians/yossarians/blob/main/think.jpg" alt=""> 
 
 Well, you've found my github profile! You can explore my past and active projects by clicking on the **Repositories** tab.
