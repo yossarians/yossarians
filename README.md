@@ -1,7 +1,7 @@
-- Obi-Wan Kenobi: 👋 "Hello there!" 
+- Darth Vader: \*communicates 👋 *"Hello there!"* via the Force\*
 
-- Anakin Skywalker: *doesn't repond with "General Kenobi"*
+- Luke Skywalker: \*ignores it\*
 
-Ten Minutes Later:
+Nine Minutes Later:
 
-![Think, Jedi. Are you Kenobi?](https://i.kym-cdn.com/photos/images/newsfeed/002/091/410/609.png)
+<img src="https://github.com/yossarians/yossarians/think.png" width="750" height="650">
