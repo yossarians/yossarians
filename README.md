@@ -4,6 +4,6 @@
 
 Nine Minutes Later:
 
-![width=850,height=600](https://github.com/yossarians/yossarians/blob/main/think.jpg)
+![width=850,height=600](https://github.com/yossarians/yossarians/blob/main/think.jpg){ width=85% }
 
 Well, Internet User, you've found my github profile! You can explore my past and active projects by clicking on the **Repositories** tab.
