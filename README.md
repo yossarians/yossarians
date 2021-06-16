@@ -2,7 +2,7 @@
 
 - Luke: \*ignores it\*
 
-- Vader: *angry Vader noises*
+- Vader: \*angry Vader noises\*
 
 Nine Minutes Later:
 
