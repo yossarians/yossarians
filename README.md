@@ -4,6 +4,4 @@
 
 Nine Minutes Later:
 
-![](https://yossarians.github.io/portfolio/cal.jpg)
-![](https://yossarians.github.io/yossarians/think.jpg)
-<img align="center" width="850" height="650" src="https://yossarians.github.io/yossarians/think.jpg" alt="">
+![](https://github.com/yossarians/yossarians/blob/main/think.jpg)
