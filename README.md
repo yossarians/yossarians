@@ -4,4 +4,4 @@
 
 Nine Minutes Later:
 
-<img src="https://github.com/yossarians/yossarians/think.png" width="750" height="650">
+<img align="center" width="850" height="650" src="https://github.com/yossarians/yossarians/think.jpg" alt="">
