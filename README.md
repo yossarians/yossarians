@@ -3,7 +3,7 @@
  not be worth living.”   
 \- Henri Poincaré
 
-the public: Why do we need statisticians?
+Why do we need statisticians?
 ![](https://github.com/yossarians/yossarians/blob/main/pval1.png)
 *Source: xkcd comics*
 
