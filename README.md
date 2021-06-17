@@ -1,4 +1,6 @@
-"The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful. If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”   
+"The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because &nbsp;
+ it is beautiful. If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would &nbsp; 
+ not be worth living.”   
 \- Henri Poincaré
 
 mein Leben, Kurzgesagt:
