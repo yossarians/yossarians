@@ -4,7 +4,10 @@
 \- Henri Poincaré
 
 Why do we need statisticians?
+
 ![](https://github.com/yossarians/yossarians/blob/main/pval1.png)
 *Source: xkcd comics*
+
+Of course, their conclusion is likely incorrect since they violated the assumptions of p-values and neglected to calculate the family-wise error rate.
 
 Well, you've found my github profile! You can explore my past and active projects by searching for the *portfolio* folder after clicking on the **Repositories** tab.
