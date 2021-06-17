@@ -8,9 +8,6 @@ Excuse me, force of habit. Greetings aside, my name is Christopher Tang, and I'm
 
 # mein Leben, Kurzgesagt
 
-- my body: Why did you make me do this? What will you have after 4 years of agony? 
-- me: (ostensibly) Life of the Mind...
-
 <p align="center">
   <img width="705" height="390" src="https://github.com/yossarians/yossarians/blob/main/think-1.png">
 </p>
