@@ -4,7 +4,7 @@
 \- Henri Poincaré
 
 the public: Why do we need statisticians?
-![](https://github.com/yossarians/yossarians/blob/main/pVal1.png)   
+![](https://github.com/yossarians/yossarians/blob/main/pal1.png)   
 *Source: xkcd comics*
 
 Well, you've found my github profile! You can explore my past and active projects by searching for the *portfolio* folder after clicking on the **Repositories** tab.
