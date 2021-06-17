@@ -1,12 +1,19 @@
-"The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because     
- it is beautiful. If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would     
- not be worth living.”   
-\- Henri Poincaré
+<p align="center">
+  <img width="705" height="390" src="https://github.com/yossarians/yossarians/blob/main/hello.png">
+</p>
 
-Why do we need statisticians?
+# General Kenobi!
 
-![](https://github.com/yossarians/yossarians/blob/main/pval1.png)
-*Source: xkcd comics*
+Excuse me, force of habit. Greetings aside, my name is Christopher Tang and I'm a Statistics student at the University of Chicago.
 
-Of course, their conclusion is dubious since they violated the assumptions of p-values and neglected to use the family-wise error rate.
+# mein Leben, Kurzgesagt
+
+- my body: Why did you make me do this? What will you have after 4 years of agony? 
+- me (ostensibly): Life of the Mind...
+
+<p align="center">
+  <img width="705" height="390" src="https://github.com/yossarians/yossarians/blob/main/think.png">
+</p>
+
+
 
