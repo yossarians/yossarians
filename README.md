@@ -9,7 +9,7 @@ Excuse me, force of habit. Greetings aside, my name is Christopher Tang, and I'm
 # mein Leben, Kurzgesagt
 
 <p align="center">
-  <img width="705" height="390" src="https://github.com/yossarians/yossarians/blob/main/think-1.png">
+  <img src="https://github.com/yossarians/yossarians/blob/main/think-1.png">
 </p>
 
 
