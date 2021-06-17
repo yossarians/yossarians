@@ -6,7 +6,7 @@
 the public: Why do we need statisticians?
 <p align="center">
   <img src="https://github.com/yossarians/yossarians/blob/main/pVal.png">
-  <figcaption>Source: xkcd comics</figcaption>
+  <pcaption>Source: xkcd comics</pcaption>
 </p>
 
 Well, you've found my github profile! You can explore my past and active projects by searching for the *portfolio* folder after clicking on the **Repositories** tab.
