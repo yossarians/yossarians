@@ -5,7 +5,7 @@
 
 the public: Why do we need statisticians?
 <p align="center">
-  <img width="705" height="390" src="https://github.com/yossarians/yossarians/blob/main/pVal.png">
+  <img src="https://github.com/yossarians/yossarians/blob/main/pVal.png">
   <figcaption>Source: xkcd comics</figcaption>
 </p>
 
